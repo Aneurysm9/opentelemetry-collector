@@ -47,7 +47,7 @@ require (
 	go.uber.org/atomic v1.7.0
 	go.uber.org/zap v1.16.0
 	golang.org/x/sys v0.0.0-20210217105451-b926d437f341
-	golang.org/x/text v0.3.5
+	golang.org/x/text v0.3.6
 	google.golang.org/genproto v0.0.0-20210302174412-5ede27ff9881
 	google.golang.org/grpc v1.36.0
 	google.golang.org/grpc/examples v0.0.0-20210309220351-d5b628860d4e // indirect
